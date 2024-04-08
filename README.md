@@ -32,7 +32,7 @@ High-level modules in this application do not depend on low-level modules. Both 
 
 ## How to Run
 
-1. Install dependencies:
+1. Clone the Project and Install dependencies:
 
 ```bash
 npm install
